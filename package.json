@@ -1,0 +1,15 @@
+{
+  "name": "screwcar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autos",
+    "repuestos"
+  ],
+  "author": "Denys-Ignacio",
+  "license": "ISC",
+  "description": ""
+}
